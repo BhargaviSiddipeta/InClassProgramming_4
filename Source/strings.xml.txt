@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translate App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_translate">TranslateActivity</string>
+<string name="Language">Choose a language</string>
+    <string-array name="language_arrays" id = "shr">
+        <item id="ml" name="ml">ml </item>
+        <item id="en" name="en">en</item>
+        <item id="ar" name ="ar">arabic</item>
+    </string-array>
+</resources>
